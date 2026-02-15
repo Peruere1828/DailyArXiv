@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2026
+title: Latest 15 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MING: An Automated CNN-to-Edge MLIR HLS framework](https://arxiv.org/abs/2602.11966v1)** | 2026-02-12 |  |
 | **[An MLIR Lowering Pipeline for Stencils at Wafer-Scale](https://arxiv.org/abs/2601.17754v1)** | 2026-01-25 | <details><summary>Paper...</summary><p>Paper in ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '26)</p></details> |
 | **[MLIR-Forge: A Modular Framework for Language Smiths](https://arxiv.org/abs/2601.09583v1)** | 2026-01-14 |  |
 | **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](https://arxiv.org/abs/2509.21039v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the IEEE/ACM SC25 Conference WACCPD Workshop. The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, Nov 16-21, 2025. 15 pages, 7 figures. WFG and TM contributed equally</p></details> |
 | **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
 | **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](https://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
-| **[Building Bridges: Julia as an MLIR Frontend](https://arxiv.org/abs/2503.04771v1)** | 2025-02-14 | <details><summary>This ...</summary><p>This is the extended abstract of a master's thesis, hosted at https://lib.ugent.be/en/catalog/rug01:003212846?i=0 \nSupervised by: Prof. Bjorn De Sutter with counselling from: Dr. Tim Besard and Thomas Faingnaert</p></details> |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |

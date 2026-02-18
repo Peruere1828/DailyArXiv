@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Road Renovation Scheduling under Uncertainty using Lower Bound Pruning](https://arxiv.org/abs/2602.15554v1)** | 2026-02-17 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, submitted to Computer-Aided Civil and Infrastructure Engineering</p></details> |
 | **[Code Contribution and Credit in Science](https://arxiv.org/abs/2510.16242v2)** | 2026-01-06 | <details><summary>Revis...</summary><p>Revisions after peer-review. This is the "Accepted" version of the paper!</p></details> |
 | **[Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier](https://arxiv.org/abs/2504.00178v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
 | **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373v1)** | 2025-09-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[C4CAM: A Compiler for CAM-based In-memory Accelerators](https://arxiv.org/abs/2309.06418v1)** | 2023-09-12 | 10 pages, 9 figures |
 | **[A Data-Centric Optimization Framework for Machine Learning](https://arxiv.org/abs/2110.10802v3)** | 2022-08-29 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, published at Proceedings of the ACM International Conference on Supercomputing (ICS'22)</p></details> |
 | **[Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction](https://arxiv.org/abs/2202.03293v1)** | 2022-02-07 |  |
-| **[Phism: Polyhedral High-Level Synthesis in MLIR](https://arxiv.org/abs/2103.15103v1)** | 2021-03-28 | <details><summary>Will ...</summary><p>Will be presented at LATTE'21</p></details> |
 
 ## Transform Dialect
 | **Title** | **Date** | **Comment** |

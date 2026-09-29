@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Torch-PIM: Automated Profile-Guided PIM Offloading for PyTorch](https://arxiv.org/abs/2609.34657v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables</p></details> |
 | **[CryptDough: A Unified Analytics Engine for Secure Multiparty Computation](https://arxiv.org/abs/2608.17529v1)** | 2026-08-18 |  |
 | **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v2)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 12 figures; This version is equivalent to the one that will appear at AIES 2026, except that it includes appendices</p></details> |
 | **[Don't Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models](https://arxiv.org/abs/2605.25681v2)** | 2026-08-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373v1)** | 2025-09-29 |  |
 | **[Recursive lattice reduction -- A framework for finding short lattice vectors](https://arxiv.org/abs/2311.15064v3)** | 2025-04-20 | <details><summary>This ...</summary><p>This version is a minor edit of the previous version</p></details> |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
-| **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134v1)** | 2025-03-24 |  |
 
 ## Triton
 | **Title** | **Date** | **Comment** |

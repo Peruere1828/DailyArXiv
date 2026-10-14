@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenMQPI: An MLIR-based Pipeline to Offload Quantum Circuits via OpenMP](https://arxiv.org/abs/2610.18056v1)** | 2026-10-13 | 12 pages, 14 Figures |
 | **[JLIR: A Julia-Native MLIR-Inspired Intermediate Representation with Automatic JACC Kernel Extraction](https://arxiv.org/abs/2609.04585v1)** | 2026-09-04 |  |
 | **[TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting](https://arxiv.org/abs/2604.13523v3)** | 2026-08-26 | <details><summary>ICCAD...</summary><p>ICCAD '26 camera-ready version</p></details> |
 | **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v2)** | 2026-07-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
 | **[Enabling RISC-V Vector Code Generation in MLIR through Custom xDSL Lowerings](https://arxiv.org/abs/2603.17800v1)** | 2026-03-18 | <details><summary>12 pa...</summary><p>12 pages, 11 Figures, 1 table</p></details> |
 | **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
-| **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |

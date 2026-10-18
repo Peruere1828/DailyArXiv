@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Progressive Lower Bound Evaluation for Urban Road Renovation Scheduling](https://arxiv.org/abs/2602.15554v2)** | 2026-10-15 | <details><summary>31 pa...</summary><p>31 pages, 12 figures. Accepted manuscript of the article published in Computer-Aided Civil and Infrastructure Engineering, https://doi.org/10.1016/j.cacaie.2026.100174</p></details> |
 | **[Torch-PIM: Automated Profile-Guided PIM Offloading for PyTorch](https://arxiv.org/abs/2609.34657v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables</p></details> |
 | **[CryptDough: A Unified Analytics Engine for Secure Multiparty Computation](https://arxiv.org/abs/2608.17529v1)** | 2026-08-18 |  |
 | **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v2)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 12 figures; This version is equivalent to the one that will appear at AIES 2026, except that it includes appendices</p></details> |
@@ -35,7 +36,6 @@ labels: documentation
 | **[InvDesFlow-AL: active learning-based workflow for inverse design of functional materials](https://arxiv.org/abs/2505.09203v2)** | 2026-05-18 | 29 pages, 11 figures |
 | **[SAND: Spatially Adaptive Network Depth for Fast Sampling of Neural Implicit Surfaces](https://arxiv.org/abs/2604.25936v1)** | 2026-04-15 |  |
 | **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
-| **[Efficient Road Renovation Scheduling under Uncertainty using Lower Bound Pruning](https://arxiv.org/abs/2602.15554v1)** | 2026-02-17 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, submitted to Computer-Aided Civil and Infrastructure Engineering</p></details> |
 | **[Code Contribution and Credit in Science](https://arxiv.org/abs/2510.16242v2)** | 2026-01-06 | <details><summary>Revis...</summary><p>Revisions after peer-review. This is the "Accepted" version of the paper!</p></details> |
 | **[Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier](https://arxiv.org/abs/2504.00178v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
 | **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373v1)** | 2025-09-29 |  |

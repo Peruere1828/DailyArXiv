@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2026 Evaluations and Datasets Track; camera-ready version. 31 pages (10 main + references + appendix + checklist). Code: https://github.com/plawanrath/slm-to-mlir-constrained-emitter Datasets: https://huggingface.co/collections/plawanrath/cross-dialect-mlir-benchmarks-neurips-2026-e-and-d</p></details> |
 | **[OpenMQPI: An MLIR-based Pipeline to Offload Quantum Circuits via OpenMP](https://arxiv.org/abs/2610.18056v1)** | 2026-10-13 | 12 pages, 14 Figures |
 | **[JLIR: A Julia-Native MLIR-Inspired Intermediate Representation with Automatic JACC Kernel Extraction](https://arxiv.org/abs/2609.04585v1)** | 2026-09-04 |  |
 | **[TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting](https://arxiv.org/abs/2604.13523v3)** | 2026-08-26 | <details><summary>ICCAD...</summary><p>ICCAD '26 camera-ready version</p></details> |
@@ -14,7 +15,6 @@ labels: documentation
 | **[MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616v1)** | 2026-07-01 | 11 pages, 14 figures |
 | **[Reading AI Model Compilation in MLIR Through the Lens of Formal Theories](https://arxiv.org/abs/2606.25244v1)** | 2026-06-24 |  |
 | **[SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C](https://arxiv.org/abs/2606.09213v1)** | 2026-06-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
-| **[Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254v1)** | 2026-05-14 | <details><summary>27 pa...</summary><p>27 pages (9 main + bibliography + appendix), 9 figures, 9 tables. Code, benchmarks, and reproducibility Docker image at https://github.com/plawanrath/slm-to-mlir-constrained-emitter</p></details> |
 | **[Practical Formal Verification for MLIR Programs](https://arxiv.org/abs/2605.01124v1)** | 2026-05-01 |  |
 | **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
 | **[Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR](https://arxiv.org/abs/2511.22267v2)** | 2026-04-18 |  |

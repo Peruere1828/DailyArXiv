@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[te-comp: A Complete MLIR Compiler Generating Self-Contained C Inference Engines for MCUs](https://arxiv.org/abs/2611.03710v1)** | 2026-10-31 |  |
 | **[Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2026 Evaluations and Datasets Track; camera-ready version. 31 pages (10 main + references + appendix + checklist). Code: https://github.com/plawanrath/slm-to-mlir-constrained-emitter Datasets: https://huggingface.co/collections/plawanrath/cross-dialect-mlir-benchmarks-neurips-2026-e-and-d</p></details> |
 | **[OpenMQPI: An MLIR-based Pipeline to Offload Quantum Circuits via OpenMP](https://arxiv.org/abs/2610.18056v1)** | 2026-10-13 | 12 pages, 14 Figures |
 | **[JLIR: A Julia-Native MLIR-Inspired Intermediate Representation with Automatic JACC Kernel Extraction](https://arxiv.org/abs/2609.04585v1)** | 2026-09-04 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR](https://arxiv.org/abs/2604.16571v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 (Tool Demonstration Track)</p></details> |
 | **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
 | **[Enabling RISC-V Vector Code Generation in MLIR through Custom xDSL Lowerings](https://arxiv.org/abs/2603.17800v1)** | 2026-03-18 | <details><summary>12 pa...</summary><p>12 pages, 11 Figures, 1 table</p></details> |
-| **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
